@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fung673/Second-react-practice-airbnb-clone-/static/css/main.a66ad4f5.css",
+    "main.js": "/fung673/Second-react-practice-airbnb-clone-/static/js/main.cc3d3747.js",
+    "static/media/katie-zaferes.png": "/fung673/Second-react-practice-airbnb-clone-/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
+    "static/media/logo.png": "/fung673/Second-react-practice-airbnb-clone-/static/media/logo.c863345a105fa7c362f3.png",
+    "index.html": "/fung673/Second-react-practice-airbnb-clone-/index.html",
+    "main.a66ad4f5.css.map": "/fung673/Second-react-practice-airbnb-clone-/static/css/main.a66ad4f5.css.map",
+    "main.cc3d3747.js.map": "/fung673/Second-react-practice-airbnb-clone-/static/js/main.cc3d3747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a66ad4f5.css",
+    "static/js/main.cc3d3747.js"
+  ]
+}
