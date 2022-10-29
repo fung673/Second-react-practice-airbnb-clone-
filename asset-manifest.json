@@ -1,15 +1,20 @@
 {
-  "files": {
-    "main.css": "/Second-react-practice-airbnb-clone-/static/css/main.a66ad4f5.css",
-    "main.js": "/Second-react-practice-airbnb-clone-/static/js/main.e5265afb.js",
-    "static/media/katie-zaferes.png": "/Second-react-practice-airbnb-clone-/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
-    "static/media/logo.png": "/Second-react-practice-airbnb-clone-/static/media/logo.c863345a105fa7c362f3.png",
-    "index.html": "/Second-react-practice-airbnb-clone-/index.html",
-    "main.a66ad4f5.css.map": "/Second-react-practice-airbnb-clone-/static/css/main.a66ad4f5.css.map",
-    "main.e5265afb.js.map": "/Second-react-practice-airbnb-clone-/static/js/main.e5265afb.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.a66ad4f5.css",
-    "static/js/main.e5265afb.js"
-  ]
+  "main.css": "/Second-react-practice-airbnb-clone-/static/css/main.ef550446.chunk.css",
+  "main.js": "/Second-react-practice-airbnb-clone-/static/js/main.8a1452c5.chunk.js",
+  "main.js.map": "/Second-react-practice-airbnb-clone-/static/js/main.8a1452c5.chunk.js.map",
+  "static/js/1.0d935437.chunk.js": "/Second-react-practice-airbnb-clone-/static/js/1.0d935437.chunk.js",
+  "static/js/1.0d935437.chunk.js.map": "/Second-react-practice-airbnb-clone-/static/js/1.0d935437.chunk.js.map",
+  "runtime~main.js": "/Second-react-practice-airbnb-clone-/static/js/runtime~main.aabba7c1.js",
+  "runtime~main.js.map": "/Second-react-practice-airbnb-clone-/static/js/runtime~main.aabba7c1.js.map",
+  "static/media/logo.png": "/Second-react-practice-airbnb-clone-/static/media/logo.ad3f3591.png",
+  "static/media/airbnb-logo.png": "/Second-react-practice-airbnb-clone-/static/media/airbnb-logo.63567cd6.png",
+  "static/media/grid.png": "/Second-react-practice-airbnb-clone-/static/media/grid.e9df633c.png",
+  "static/media/katie-zaferes.png": "/Second-react-practice-airbnb-clone-/static/media/katie-zaferes.24df2e28.png",
+  "static/media/mountain-bike.png": "/Second-react-practice-airbnb-clone-/static/media/mountain-bike.5c20bb07.png",
+  "static/media/photo-grid.png": "/Second-react-practice-airbnb-clone-/static/media/photo-grid.0e83f5a0.png",
+  "static/media/wedding-photography.png": "/Second-react-practice-airbnb-clone-/static/media/wedding-photography.a49bced6.png",
+  "static/css/main.ef550446.chunk.css.map": "/Second-react-practice-airbnb-clone-/static/css/main.ef550446.chunk.css.map",
+  "index.html": "/Second-react-practice-airbnb-clone-/index.html",
+  "precache-manifest.8562d2ef4f59fc6a0d580672d6beaba0.js": "/Second-react-practice-airbnb-clone-/precache-manifest.8562d2ef4f59fc6a0d580672d6beaba0.js",
+  "service-worker.js": "/Second-react-practice-airbnb-clone-/service-worker.js"
 }
