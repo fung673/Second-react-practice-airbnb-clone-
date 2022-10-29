@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7f2beef7e07e51fc3711",
-    "url": "/Second-react-practice-airbnb-clone-/static/css/main.b68a67f0.chunk.css"
+    "revision": "318d0ddaa0dd1616278a",
+    "url": "/Second-react-practice-airbnb-clone-/static/css/main.f19df276.chunk.css"
   },
   {
-    "revision": "7f2beef7e07e51fc3711",
-    "url": "/Second-react-practice-airbnb-clone-/static/js/main.7f2beef7.chunk.js"
+    "revision": "318d0ddaa0dd1616278a",
+    "url": "/Second-react-practice-airbnb-clone-/static/js/main.318d0dda.chunk.js"
   },
   {
     "revision": "9bb7f7af076d1c655bb2",
@@ -22,10 +22,6 @@ self.__precacheManifest = [
   {
     "revision": "e9df633cbd05ee6f834900c0735f9d02",
     "url": "/Second-react-practice-airbnb-clone-/static/media/grid.e9df633c.png"
-  },
-  {
-    "revision": "a49bced69bcb2ffdb564f062d63651b1",
-    "url": "/Second-react-practice-airbnb-clone-/static/media/123.a49bced6.png"
   },
   {
     "revision": "63567cd6235a874588c6ee3b2ce74eb2",
@@ -48,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Second-react-practice-airbnb-clone-/static/media/wedding-photography.6c321d72.png"
   },
   {
-    "revision": "c77a6359120975797449850eb5f235ed",
+    "revision": "bf9e2eed8574d16dfe50f5e31618d193",
     "url": "/Second-react-practice-airbnb-clone-/index.html"
   }
 ];
