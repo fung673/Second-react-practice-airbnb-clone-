@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "966df4841ff8630340e4",
-    "url": "/Second-react-practice-airbnb-clone-/static/css/main.0861ed7a.chunk.css"
+    "revision": "7f2beef7e07e51fc3711",
+    "url": "/Second-react-practice-airbnb-clone-/static/css/main.b68a67f0.chunk.css"
   },
   {
-    "revision": "966df4841ff8630340e4",
-    "url": "/Second-react-practice-airbnb-clone-/static/js/main.966df484.chunk.js"
+    "revision": "7f2beef7e07e51fc3711",
+    "url": "/Second-react-practice-airbnb-clone-/static/js/main.7f2beef7.chunk.js"
   },
   {
     "revision": "9bb7f7af076d1c655bb2",
@@ -24,6 +24,10 @@ self.__precacheManifest = [
     "url": "/Second-react-practice-airbnb-clone-/static/media/grid.e9df633c.png"
   },
   {
+    "revision": "a49bced69bcb2ffdb564f062d63651b1",
+    "url": "/Second-react-practice-airbnb-clone-/static/media/123.a49bced6.png"
+  },
+  {
     "revision": "63567cd6235a874588c6ee3b2ce74eb2",
     "url": "/Second-react-practice-airbnb-clone-/static/media/airbnb-logo.63567cd6.png"
   },
@@ -32,19 +36,19 @@ self.__precacheManifest = [
     "url": "/Second-react-practice-airbnb-clone-/static/media/katie-zaferes.24df2e28.png"
   },
   {
-    "revision": "5c20bb07050dde895f19c12b869d9932",
-    "url": "/Second-react-practice-airbnb-clone-/static/media/mountain-bike.5c20bb07.png"
+    "revision": "a6da47b16e7b707d7b2f21b44b8a77d1",
+    "url": "/Second-react-practice-airbnb-clone-/static/media/mountain-bike.a6da47b1.png"
   },
   {
     "revision": "0e83f5a0f847c2363202f3a1be3bbd27",
     "url": "/Second-react-practice-airbnb-clone-/static/media/photo-grid.0e83f5a0.png"
   },
   {
-    "revision": "a49bced69bcb2ffdb564f062d63651b1",
-    "url": "/Second-react-practice-airbnb-clone-/static/media/wedding-photography.a49bced6.png"
+    "revision": "6c321d72af5e3045ef95c6a3f4c7faf2",
+    "url": "/Second-react-practice-airbnb-clone-/static/media/wedding-photography.6c321d72.png"
   },
   {
-    "revision": "fbb11d2a2995fbec241ac4c8cb7a8d14",
+    "revision": "c77a6359120975797449850eb5f235ed",
     "url": "/Second-react-practice-airbnb-clone-/index.html"
   }
 ];
