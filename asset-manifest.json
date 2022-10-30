@@ -1,7 +1,7 @@
 {
   "main.css": "/Second-react-practice-airbnb-clone-/static/css/main.f19df276.chunk.css",
-  "main.js": "/Second-react-practice-airbnb-clone-/static/js/main.318d0dda.chunk.js",
-  "main.js.map": "/Second-react-practice-airbnb-clone-/static/js/main.318d0dda.chunk.js.map",
+  "main.js": "/Second-react-practice-airbnb-clone-/static/js/main.d7c24dbb.chunk.js",
+  "main.js.map": "/Second-react-practice-airbnb-clone-/static/js/main.d7c24dbb.chunk.js.map",
   "static/js/1.9bb7f7af.chunk.js": "/Second-react-practice-airbnb-clone-/static/js/1.9bb7f7af.chunk.js",
   "static/js/1.9bb7f7af.chunk.js.map": "/Second-react-practice-airbnb-clone-/static/js/1.9bb7f7af.chunk.js.map",
   "runtime~main.js": "/Second-react-practice-airbnb-clone-/static/js/runtime~main.aabba7c1.js",
@@ -15,6 +15,6 @@
   "static/media/wedding-photography.png": "/Second-react-practice-airbnb-clone-/static/media/wedding-photography.6c321d72.png",
   "static/css/main.f19df276.chunk.css.map": "/Second-react-practice-airbnb-clone-/static/css/main.f19df276.chunk.css.map",
   "index.html": "/Second-react-practice-airbnb-clone-/index.html",
-  "precache-manifest.90d492c58e7dbfc75ca3594f81e7be74.js": "/Second-react-practice-airbnb-clone-/precache-manifest.90d492c58e7dbfc75ca3594f81e7be74.js",
+  "precache-manifest.18f9af6afa0fc69df4544719bf19bda6.js": "/Second-react-practice-airbnb-clone-/precache-manifest.18f9af6afa0fc69df4544719bf19bda6.js",
   "service-worker.js": "/Second-react-practice-airbnb-clone-/service-worker.js"
 }

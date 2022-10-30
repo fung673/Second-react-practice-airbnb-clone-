@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "318d0ddaa0dd1616278a",
+    "revision": "d7c24dbbf0d127960568",
     "url": "/Second-react-practice-airbnb-clone-/static/css/main.f19df276.chunk.css"
   },
   {
-    "revision": "318d0ddaa0dd1616278a",
-    "url": "/Second-react-practice-airbnb-clone-/static/js/main.318d0dda.chunk.js"
+    "revision": "d7c24dbbf0d127960568",
+    "url": "/Second-react-practice-airbnb-clone-/static/js/main.d7c24dbb.chunk.js"
   },
   {
     "revision": "9bb7f7af076d1c655bb2",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Second-react-practice-airbnb-clone-/static/media/wedding-photography.6c321d72.png"
   },
   {
-    "revision": "bf9e2eed8574d16dfe50f5e31618d193",
+    "revision": "bf6804e7c0c4d959c1069ee774def3c7",
     "url": "/Second-react-practice-airbnb-clone-/index.html"
   }
 ];
